@@ -67,3 +67,23 @@ a:hover, button:hover {
 .project a:hover {
     background-color: #0056b3;
 }
+
+
+#about, #skills {
+    background-color: #f8f9fa;
+    padding: 40px;
+    margin: 20px auto;
+    width: 80%;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+#skills ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#skills li {
+    font-size: 18px;
+    padding: 5px 0;
+}

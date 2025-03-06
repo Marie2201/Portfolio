@@ -34,3 +34,36 @@ a, button {
 a:hover, button:hover {
     background-color: #0056b3;
 }
+
+
+#projects {
+    background-color: #fff;
+    padding: 40px;
+}
+
+.project {
+    background-color: #f8f9fa;
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.project h3 {
+    color: #333;
+}
+
+.project a {
+    display: inline-block;
+    margin-top: 10px;
+    background-color: #007bff;
+    color: white;
+    padding: 8px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.project a:hover {
+    background-color: #0056b3;
+}
